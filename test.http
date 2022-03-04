@@ -1,0 +1,2 @@
+GET http://api.openweathermap.org/data/2.5/find?q=New York&appid=7f91b36eb30bafb5c3f3f4aef94cbf85
+
